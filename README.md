@@ -68,3 +68,6 @@ while True:
 		break
 
 cv2.destroyAllWindows()
+
+linkdin https://www.linkedin.com/posts/abhishek-sharma-7b8993192_gripaugust2021-thesparksfoundation-python-activity-6834085088351940608-uvEQ
+youtube https://youtu.be/4rtjq88iWlE
